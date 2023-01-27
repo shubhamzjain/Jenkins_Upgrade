@@ -2,8 +2,6 @@
 <html>
 <body>
 
-<h2>Get the current URL</h2>
-
 <p id="demo"></p>
 
 <head>

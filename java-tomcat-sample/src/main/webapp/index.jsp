@@ -8,11 +8,11 @@
   <script>
     function myFunction() {
       if (window.location.href.match(9090)) {
-            var number = "stage";
+            var number = "Staging";
             document.getElementById("myText").innerHTML = number;
 
 		} else {
-            var number = "prod";
+            var number = "Production";
             document.getElementById("myText").innerHTML = number;
 		}
     }
@@ -21,7 +21,7 @@
 
 <body onload="myFunction()">
 
-  <h1>"Hello Team! Welcome to Shubham's Jenkins Code Pipeline. This is Shubham's Env = <span id="myText"></span></h1>
+  <h1>"Hello Team! Welcome to Shubham's Jenkins Code Pipeline. This is project environment = <span id="myText"></span></h1>
 
 </body>
 </html>

@@ -21,7 +21,7 @@
 
 <body onload="myFunction()">
 
-  <h1>"Hello Team! Welcome to Shubham's Jenkins Code Pipeline. This is project environment = <span id="myText"></span></h1>
+  <h1>"Hello Kiran! Welcome to Shubham's Jenkins Code Pipeline. This is project environment = <span id="myText"></span></h1>
 
 </body>
 </html>
